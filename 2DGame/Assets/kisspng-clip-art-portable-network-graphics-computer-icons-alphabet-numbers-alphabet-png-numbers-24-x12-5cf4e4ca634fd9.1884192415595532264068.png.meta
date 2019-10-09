@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: f28173734ececba41b9bac827fcc1a21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8570588282518591356
+    second: kisspng-clip-art-portable-network-graphics-computer-icons-alphabet-numbers-alphabet-png-numbers-24-x12-5cf4e4ca634fd9.1884192415595532264068_0
+  - first:
+      213: -5138111164774638106
+    second: kisspng-clip-art-portable-network-graphics-computer-icons-alphabet-numbers-alphabet-png-numbers-24-x12-5cf4e4ca634fd9.1884192415595532264068_1
+  - first:
+      213: -622903058047463071
+    second: kisspng-clip-art-portable-network-graphics-computer-icons-alphabet-numbers-alphabet-png-numbers-24-x12-5cf4e4ca634fd9.1884192415595532264068_2
+  - first:
+      213: 5163270594386017028
+    second: kisspng-clip-art-portable-network-graphics-computer-icons-alphabet-numbers-alphabet-png-numbers-24-x12-5cf4e4ca634fd9.1884192415595532264068_3
+  - first:
+      213: -4006873924986716171
+    second: kisspng-clip-art-portable-network-graphics-computer-icons-alphabet-numbers-alphabet-png-numbers-24-x12-5cf4e4ca634fd9.1884192415595532264068_4
+  - first:
+      213: 4466130254567467967
+    second: kisspng-clip-art-portable-network-graphics-computer-icons-alphabet-numbers-alphabet-png-numbers-24-x12-5cf4e4ca634fd9.1884192415595532264068_5
+  - first:
+      213: 1761304480207860298
+    second: kisspng-clip-art-portable-network-graphics-computer-icons-alphabet-numbers-alphabet-png-numbers-24-x12-5cf4e4ca634fd9.1884192415595532264068_6
+  - first:
+      213: 8886246197470087320
+    second: kisspng-clip-art-portable-network-graphics-computer-icons-alphabet-numbers-alphabet-png-numbers-24-x12-5cf4e4ca634fd9.1884192415595532264068_7
+  - first:
+      213: 4924137489356659467
+    second: kisspng-clip-art-portable-network-graphics-computer-icons-alphabet-numbers-alphabet-png-numbers-24-x12-5cf4e4ca634fd9.1884192415595532264068_8
+  - first:
+      213: 3060112819279324007
+    second: kisspng-clip-art-portable-network-graphics-computer-icons-alphabet-numbers-alphabet-png-numbers-24-x12-5cf4e4ca634fd9.1884192415595532264068_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-clip-art-portable-network-graphics-computer-icons-alphabet-numbers-alphabet-png-numbers-24-x12-5cf4e4ca634fd9.1884192415595532264068_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 638
+        width: 305
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3b435f45bcd554da3badf7b3796312
+      internalID: 8570588282518591356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-portable-network-graphics-computer-icons-alphabet-numbers-alphabet-png-numbers-24-x12-5cf4e4ca634fd9.1884192415595532264068_1
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 644
+        width: 190
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9f42c58d8a863489db967efc84564d
+      internalID: -5138111164774638106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-portable-network-graphics-computer-icons-alphabet-numbers-alphabet-png-numbers-24-x12-5cf4e4ca634fd9.1884192415595532264068_2
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 641
+        width: 303
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eada999fe20a8c743985f90bf8703862
+      internalID: -622903058047463071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-portable-network-graphics-computer-icons-alphabet-numbers-alphabet-png-numbers-24-x12-5cf4e4ca634fd9.1884192415595532264068_3
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 638
+        width: 298
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f7c9533ef6a2e4c8025625f3c3a00e
+      internalID: 5163270594386017028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-portable-network-graphics-computer-icons-alphabet-numbers-alphabet-png-numbers-24-x12-5cf4e4ca634fd9.1884192415595532264068_4
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 644
+        width: 324
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f624999d0d870a49b68ec1eb8e76f9c
+      internalID: -4006873924986716171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-portable-network-graphics-computer-icons-alphabet-numbers-alphabet-png-numbers-24-x12-5cf4e4ca634fd9.1884192415595532264068_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 309
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d15b3a6436cb93418a4f9155bb00995
+      internalID: 4466130254567467967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-portable-network-graphics-computer-icons-alphabet-numbers-alphabet-png-numbers-24-x12-5cf4e4ca634fd9.1884192415595532264068_6
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 0
+        width: 308
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a827b719316f4274faccbc40aa6af325
+      internalID: 1761304480207860298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-portable-network-graphics-computer-icons-alphabet-numbers-alphabet-png-numbers-24-x12-5cf4e4ca634fd9.1884192415595532264068_7
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 6
+        width: 303
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcfb6f20e5973541b924734a9edd702
+      internalID: 8886246197470087320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-portable-network-graphics-computer-icons-alphabet-numbers-alphabet-png-numbers-24-x12-5cf4e4ca634fd9.1884192415595532264068_8
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 0
+        width: 303
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ed13df1cf1c2c43b1fa6d0ed45da9b
+      internalID: 4924137489356659467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-portable-network-graphics-computer-icons-alphabet-numbers-alphabet-png-numbers-24-x12-5cf4e4ca634fd9.1884192415595532264068_9
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 0
+        width: 304
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086f53f23366c8d43a157cd119285bf0
+      internalID: 3060112819279324007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
